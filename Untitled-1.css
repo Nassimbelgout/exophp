@@ -1,0 +1,39 @@
+*{font-size: large;}
+
+
+
+.Titre{
+    display: flex;
+    align-items: center;
+    padding-right: 350px;
+    justify-content: center;
+}
+
+.Titrecv{
+    padding-left: 100px;
+}
+
+.Photocv{
+    width: 35%;
+}
+
+.Titreform{
+    /* margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center; */
+}
+
+.Titreexp{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.toto{
+    text-align: center;
+    
+}
+
+.tt{
+    text-align: center;
+}
